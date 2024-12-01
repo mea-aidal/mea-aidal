@@ -14,11 +14,4 @@ Frameworks: React, Node.js, Flask
 Technologies: Web Development, Machine Learning, Data Structures & Algorithms
 🌱 Currently learning: Cloud Computing, AI/ML, Open Source Contributions
 📚 Open to volunteering for projects that use my skills!
-GitHub Stats
 
-What I'm Working On
-I'm always involved in different projects! You can check out my recent repositories below:
-
-🔭 [Project Name 1]: A web app I built using React and Node.js.
-🌱 [Project Name 2]: A machine learning project exploring different algorithms.
-🖥️ [Project Name 3]: Open-source contributions to various repositories!
